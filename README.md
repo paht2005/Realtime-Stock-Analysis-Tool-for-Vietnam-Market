@@ -60,7 +60,7 @@ A **Streamlit**-based application for analyzing capital flow and technical indic
 
 ## 🪪 License
 
-This project is licensed under the **MIT License** – feel free to use it with proper attribution.
+This project is licensed under the **MIT License** – feel free to use it with proper attribution. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
