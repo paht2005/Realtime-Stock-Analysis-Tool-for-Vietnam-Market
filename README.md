@@ -3,7 +3,7 @@
 
 A **Streamlit**-based application for analyzing capital flow and technical indicators of stocks in the **Vietnamese stock market**, powered by real-time data from [vnstock](https://pypi.org/project/vnstock/).
 
-
+![screen](./screen1.png)
 
 ---
 ## 📚 Table of Contents
@@ -11,7 +11,6 @@ A **Streamlit**-based application for analyzing capital flow and technical indic
 - [🚀 Key Features](#-key-features)
 - [🧰 Technology Stack](#-technology-stack)
 - [🛠️ Installation](#️-installation)
-- [▶️ Run the App](#️-run-the-app)
 - [📬 Contact](#-contact)
 - [🪪 License](#-license)
 - [⭐ Future Enhancements](#-future-enhancements)
