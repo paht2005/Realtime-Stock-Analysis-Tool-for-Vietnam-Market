@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
